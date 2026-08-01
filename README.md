@@ -1,12 +1,16 @@
-# Hi, I'm Abhishek  
+<h1 align="center">Hi, I'm Abhishek</h1>
 
-Backend Developer focused on scalable systems and AI-powered applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+scalable+systems;Exploring+AI-powered+applications" alt="Typing animation" />
+</p>
 
+<p align="center">
 Currently pursuing a B.Tech in Computer Science & Applied Mathematics, building production-style backend software with a focus on clean architecture, performance, and maintainability.
+</p>
 
 ---
 
-## What You'll Find Here
+## 📖 What You'll Find Here
 
 This GitHub is where I document my journey toward becoming a backend engineer by building production-style projects.
 
@@ -14,7 +18,7 @@ Every repository is an opportunity to learn new technologies, improve software d
 
 ---
 
-## Engineering Philosophy
+## 🧭 Engineering Philosophy
 
 I believe good software should be:
 
@@ -23,10 +27,11 @@ I believe good software should be:
 - Scalable
 - Production-ready
 
-It isn't just feature-complete—it's reliable, maintainable, and designed to evolve over time.
+I believe good software isn't just feature-complete — it's reliable, maintainable, and designed with long-term evolution in mind.
+
 ---
 
-## Things I Enjoy Building
+## 🏗️ Things I Enjoy Building
 
 - Backend Infrastructure
 - Authentication & Authorization
@@ -39,22 +44,48 @@ It isn't just feature-complete—it's reliable, maintainable, and designed to ev
 
 ---
 
-## Core Technologies
+## 🛠️ Core Technologies
 
-**💻 Languages**
-JavaScript • Java • Python • C
+**Languages**
 
-**⚙ Backend**
-Node.js • Fastify • Express • REST APIs • Socket.IO • BullMQ
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-black?logo=c&logoColor=A8B9CC)
 
-**🗄 Databases**
-PostgreSQL • MongoDB
+**Backend**
 
-**🐳 Infrastructure**
-Docker • Docker Compose • Redis • GitHub Actions
+![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js&logoColor=339933)
+![Fastify](https://img.shields.io/badge/Fastify-black?logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?logo=socket.io&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-black?logo=redis&logoColor=DC382D)
 
-**🧰 Tools**
-Git • GitHub • Postman • Prisma
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb&logoColor=47A248)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=2496ED)
+![Redis](https://img.shields.io/badge/Redis-black?logo=redis&logoColor=DC382D)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=githubactions&logoColor=2088FF)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-black?logo=postman&logoColor=FF6C37)
+![Prisma](https://img.shields.io/badge/Prisma-black?logo=prisma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Sharma08&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Sharma08&layout=compact&hide_border=true" />
+</p>
 
 ---
 
@@ -122,7 +153,7 @@ A complete rewrite of CollabOS focused on cleaner architecture, scalability, rea
 
 ---
 
-## Beyond Code
+## 🎨 Beyond Code
 
 - 🎼 Music Composer
 - ♟️ Chess
