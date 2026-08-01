@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abhishek</h1>
+<h1 align="center">Hi, I'm Abhishek </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+scalable+systems;Exploring+AI-powered+applications" alt="Typing animation" />
@@ -80,12 +80,16 @@ I believe good software isn't just feature-complete — it's reliable, maintaina
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Current Tech Focus
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Sharma08&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Sharma08&layout=compact&hide_border=true" />
-</p>
+```text
+Backend Engineering  ██████████  100%
+Fastify              █████████░   90%
+Redis                ████████░░   80%
+Docker               ████████░░   80%
+Java                 ██████░░░░   60%
+AI / ML              █████░░░░░   50%
+```
 
 ---
 
