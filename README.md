@@ -1,4 +1,4 @@
-# Hi, I'm Abhishek Sharma 👋
+# Hi, I'm Abhishek  👋
 
 Backend Developer focused on scalable systems and AI-powered applications.
 
